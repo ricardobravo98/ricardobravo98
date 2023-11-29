@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ricardobravo98/ricardobravo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # Ricardo_Bravo_Portfolio
 This is my portfolio of projects I have worked on as a Data Scientist. Click on the blue links to go to the actual repository of the individual projects
 
