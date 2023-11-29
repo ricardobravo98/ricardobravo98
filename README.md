@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+Quick overview:
+
 Business-oriented Data Scientist, experienced in the whole data funnel, from preprocessing to model creation and have
-been working with programming languages like Python and SQL for 4+ years as well as business-oriented tools like
-Tableau, PowerBI and Looker which have enabled me to excel in data-driven projects to gain actionable insights for companies.
-I hold a Mathematics & Statistics Degree at the University of Warwick, Data Mining & Statistics Programmes at Stanford,
-a Digital MBA at ISDI as well as a Machine Learning Bootcamp at Ironhack.
+been working with programming languages like *Python and SQL* for 4+ years as well as business-oriented tools like
+*Tableau, PowerBI and Looker* which have enabled me to excel in data-driven projects to gain actionable insights for companies.
+I hold a **Mathematics & Statistics** Degree at the University of Warwick, **Data Mining & Statistics** Programmes at Stanford,
+a Digital MBA at ISDI as well as a **Machine Learning Bootcamp** at Ironhack.
 
 **Job Data Scientist Experiences:** Hipoo, Seedtag (see below)
 
