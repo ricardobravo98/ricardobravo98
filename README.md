@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 # Ricardo_Bravo_Portfolio
 This is my portfolio of projects I have worked on as a Data Scientist. Click on the blue links to go to the actual repository of the individual projects
 
-
 ### [Midbootcamp project Real Estate](https://github.com/ricardobravo98/Mid-project-tapas-Ricardo/tree/main)
 
 ![image](https://user-images.githubusercontent.com/115892160/236526852-3f35ee94-5edc-4f4a-9fb6-24b27f308ec3.png)
