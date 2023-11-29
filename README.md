@@ -3,10 +3,18 @@
 # Ricardo_Bravo_Portfolio
 This is my portfolio of projects I have worked on as a Data Scientist. Click on the blue links to go to the actual repository of the individual projects
 
-## Eurovision Winner Predictos
+## [Eurovision Winner Predictos](https://github.com/ricardobravo98/Eurovision)
 <img width="953" alt="Euro" src="https://github.com/ricardobravo98/ricardobravo98/assets/123763158/a32e5560-095b-4ee9-b3da-2a900f8f5b06">
 
+In this project I was given a dataset of Semifinals and Finals from 2002-2009 and the objective was to predict the leaderboard order of the 2010 final.
 
+As the problem is a regression supervised learning type, I decided to predict the number of points instead of the actual position. This is because these models are not as accurate in predicting discrete values. Once I have the points, I can order them. Aside from betting data, data on gender and home/away country was affecting the final result the most.
+
+2010 Final Winner in Model- Germany
+
+2010 Final Winner Actual - Germany
+
+***
 
 
 ### [Midbootcamp project Real Estate](https://github.com/ricardobravo98/Mid-project-tapas-Ricardo/tree/main)
