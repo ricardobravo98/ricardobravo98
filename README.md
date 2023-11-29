@@ -3,6 +3,12 @@
 # Ricardo_Bravo_Portfolio
 This is my portfolio of projects I have worked on as a Data Scientist. Click on the blue links to go to the actual repository of the individual projects
 
+## Eurovision Winner Predictos
+<img width="953" alt="Euro" src="https://github.com/ricardobravo98/ricardobravo98/assets/123763158/a32e5560-095b-4ee9-b3da-2a900f8f5b06">
+
+
+
+
 ### [Midbootcamp project Real Estate](https://github.com/ricardobravo98/Mid-project-tapas-Ricardo/tree/main)
 
 ![image](https://user-images.githubusercontent.com/115892160/236526852-3f35ee94-5edc-4f4a-9fb6-24b27f308ec3.png)
