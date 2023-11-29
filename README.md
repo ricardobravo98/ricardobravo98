@@ -10,9 +10,9 @@ In this project I was given a dataset of Semifinals and Finals from 2002-2009 an
 
 As the problem is a regression supervised learning type, I decided to predict the number of points instead of the actual position. This is because these models are not as accurate in predicting discrete values. Once I have the points, I can order them. Aside from betting data, data on gender and home/away country was affecting the final result the most.
 
-2010 Final Winner in Model- Germany
+**2010 Final Winner in Model- Germany**
 
-2010 Final Winner Actual - Germany
+**2010 Final Winner Actual - Germany**
 
 ***
 
